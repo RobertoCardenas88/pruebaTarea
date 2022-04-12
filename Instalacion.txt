@@ -1,0 +1,7 @@
+Baje el repositorio.
+
+Modifique /tareas/src/main/resources/application.properties remplazando el "usuario" por el usuario que use en mySQL y "contrasenia" por la contraseña respectiva. Tambien debe cambiar el puerto "3306" por el que use en su conexion.
+
+El sql schema tiene el script para la creacion del schema que uso, sino puede crearlo manualmente, por su parte table tiene el script de creacion de la tabla de tareas y el insert de una entrada de prueba.
+
+Abra la carpeta con STS e importe el proyecto, levante el servidor en booot dashboard. Pruebe las llamadas en postman.
